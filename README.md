@@ -2,13 +2,13 @@
 
 Output:
 Huffman Algorithm
-![image](image/huffman.jpg)
+![image](image/huffman.png)
 
 Wavelet Algorithm
-![image](image/wavelet.jpg)
+![image](image/wavelet.png)
 
 DCT Algorithm
-![image](image/dct.jpg)
+![image](image/dct.png)
 
 JPEG Algorithm
-![image](image/jpeg.jpg)
+![image](image/jpeg.png)
